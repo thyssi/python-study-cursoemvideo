@@ -1,0 +1,5 @@
+print ('Informe a sua data de nascimento:')
+day = input ('Dia ')
+month = input ('Mês ')
+year = input ('Ano ')
+print ('Você faz aniversário no dia', day, 'de', month, 'de', year, '.')
